@@ -4,7 +4,7 @@ Welcome to the **Operating System Algorithms** repository! This repository conta
 
 ## 1. CPU Scheduling Algorithms
 
-### a. First-Come, First-Served (FCFS)[https://www.linkedin.com/in/kumawatprateek/]
+### a. First-Come, First-Served (FCFS)
 - **Description**: Implements the FCFS scheduling algorithm where processes are executed in the order they arrive in the ready queue.
 - **Key Features**: Simple and easy to understand, but may lead to the "convoy effect."
 
