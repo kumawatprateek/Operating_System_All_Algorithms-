@@ -109,4 +109,4 @@ Welcome to the **Operating System Algorithms** repository! This repository conta
 - **Description**: Implements the Dining-Philosophers problem to demonstrate process synchronization and deadlock avoidance strategies.
 - **Key Features**: Models a classic synchronization problem with five philosophers sharing chopsticks.
 
-follow- 
+follow on Linkedin- https://www.linkedin.com/in/kumawatprateek/
